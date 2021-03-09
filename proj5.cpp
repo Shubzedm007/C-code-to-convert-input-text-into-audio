@@ -2,7 +2,6 @@
 #include<string>
 #include<windows.h>
 
-
 int main(){
 std::string phrase="hello world Shubham ";
 std::string command ="espeak -v +f3  \""+phrase+"\"";
